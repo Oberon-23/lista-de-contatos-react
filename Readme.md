@@ -1,7 +1,5 @@
 # 📇 Projeto: Lista de Contatos com React
 
---- 
-
 ## 📌 Sobre o Projeto  
 Este projeto é uma aplicação criada com ReactJS que simula uma **agenda de contatos**. O usuário pode adicionar, editar e excluir contatos. Foi mais um passo na jornada de aprendizado com React, explorando listas dinâmicas e manipulação de estado de forma prática.
 
