@@ -29,17 +29,19 @@ http://localhost:3000
 ---
 
 ## ✨ Funcionalidades
-✅ Adicionar novo contato (nome, e-mail, telefone)
-✅ Listar contatos na tela
-✅ Editar dados de um contato
-✅ Excluir contatos individualmente
-✅ Armazenamento local (opcional, se implementado)
+
+✅ Adicionar novo contato (nome, e-mail, telefone)  
+✅ Listar contatos na tela  
+✅ Editar dados de um contato  
+✅ Excluir contatos individualmente  
+✅ Armazenamento local (opcional, se implementado)  
 
 ## 🧠 Aprendizados
-✅ Manipulação de arrays no estado
-✅ Componentização de formulários e lista
-✅ Eventos de clique e envio de formulário
-✅ Prática com map(), filter(), setState()
+
+✅ Manipulação de arrays no estado  
+✅ Componentização de formulários e lista  
+✅ Eventos de clique e envio de formulário  
+✅ Prática com `map()`, `filter()` e `setState()`  
 
 --- 
 
